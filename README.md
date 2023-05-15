@@ -17,4 +17,4 @@ respond example:
 
 exefileExample:
 
-i[image](exefilePic.jpg)
+![image](exefilePic.jpg)
