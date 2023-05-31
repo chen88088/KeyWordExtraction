@@ -5,16 +5,16 @@ senario: we now have custom question records and we want to analyze the question
 
 problem example: 
 
-![image](pic/customerProblemExample.jpg)
+![image](KeywordExtraction/pic/airesponsePic.png)
 
 api schema: 
 
-![image](pic/swaggerSchemaPic.jpg)
+![image](KeywordExtraction/pic/swaggerSchemaPic.jpg)
 
 respond example:
 
-![image](pic/airesponsePic.png)
+![image](KeywordExtraction/pic/airesponsePic.png)
 
 exefileExample:
 
-![image](pic/exefilePic.jpg)
+![image](KeywordExtraction/pic/exefilePic.jpg)
