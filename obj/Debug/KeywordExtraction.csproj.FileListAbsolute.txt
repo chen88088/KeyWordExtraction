@@ -1,0 +1,13 @@
+C:\Users\user1\Desktop\CustomerServiceResponseKeywordExtraction\KeywordExtraction\KeywordExtraction\bin\Debug\KeywordExtraction.exe.config
+C:\Users\user1\Desktop\CustomerServiceResponseKeywordExtraction\KeywordExtraction\KeywordExtraction\bin\Debug\KeywordExtraction.exe
+C:\Users\user1\Desktop\CustomerServiceResponseKeywordExtraction\KeywordExtraction\KeywordExtraction\bin\Debug\KeywordExtraction.pdb
+C:\Users\user1\Desktop\CustomerServiceResponseKeywordExtraction\KeywordExtraction\KeywordExtraction\obj\Debug\KeywordExtraction.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\CustomerServiceResponseKeywordExtraction\KeywordExtraction\KeywordExtraction\obj\Debug\KeywordExtraction.Properties.Resources.resources
+C:\Users\user1\Desktop\CustomerServiceResponseKeywordExtraction\KeywordExtraction\KeywordExtraction\obj\Debug\KeywordExtraction.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\CustomerServiceResponseKeywordExtraction\KeywordExtraction\KeywordExtraction\obj\Debug\KeywordExtraction.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\CustomerServiceResponseKeywordExtraction\KeywordExtraction\KeywordExtraction\obj\Debug\KeywordExtraction.exe
+C:\Users\user1\Desktop\CustomerServiceResponseKeywordExtraction\KeywordExtraction\KeywordExtraction\obj\Debug\KeywordExtraction.pdb
+C:\Users\user1\Desktop\CustomerServiceResponseKeywordExtraction\KeywordExtraction\KeywordExtraction\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user1\Desktop\CustomerServiceResponseKeywordExtraction\KeywordExtraction\KeywordExtraction\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user1\Desktop\CustomerServiceResponseKeywordExtraction\KeywordExtraction\KeywordExtraction\obj\Debug\KeywordExtraction.csproj.CopyComplete
+C:\Users\user1\Desktop\CustomerServiceResponseKeywordExtraction\KeywordExtraction\KeywordExtraction\obj\Debug\KeywordExtraction.ProgessTitleLabel.resources
